@@ -163,6 +163,7 @@ Quick comparison of air quality across cities.
 - Dynamic filtering
 - City and Year selection
 
+![Excel Dashboard 1](CitywiseAirQualityOverview.png)
 ---
 
 # 📈 Dashboard 2: Pollutant Trend Analysis
@@ -181,6 +182,7 @@ Analyze pollutant behavior over time.
 - Seasonal trend analysis
 - Interactive KPI cards
 
+![Excel Dashboard 2](PollutantTrend.png)
 ---
 
 # 📊 Power BI Dashboards
@@ -196,6 +198,7 @@ Analyze pollutant behavior over time.
 - Real-time style city/date filtering
 - National AQI monitoring KPIs
 
+![Power BI Dashboard 1](NationalAQI_P1.png)
 ---
 
 # 📉 Dashboard 2: Health Risk & Pollution Insights
@@ -209,6 +212,7 @@ Analyze pollution severity and health risk patterns.
 - Long-term AQI trends
 - Gaseous vs particulate pollutant comparison
 
+![Power BI Dashboard 2](HealthRisk_P2.png)
 ---
 
 # 📌 Key Insights
