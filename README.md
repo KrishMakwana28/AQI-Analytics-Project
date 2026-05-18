@@ -243,7 +243,8 @@ This project demonstrates practical skills in:
 # 👨‍💻 Author
 
 Krish Makwana 
-
+🔗 LinkedIn:  
+[Krish Makwana](https://www.linkedin.com/in/krish-makwana-58ab64374/)
 ---
 
 # ⭐ Support
